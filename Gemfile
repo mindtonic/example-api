@@ -23,7 +23,7 @@ gem 'bootsnap', '>= 1.1.0', require: false
 gem 'dalli'
 gem 'jbuilder'
 gem 'kaminari'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 gem 'rack-cors'
 
 #
